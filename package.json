@@ -1,0 +1,24 @@
+{
+  "name": "database-practice-gianna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiannaDavila/database-practice-gianna-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiannaDavila/database-practice-gianna-/issues"
+  },
+  "homepage": "https://github.com/GiannaDavila/database-practice-gianna-#readme",
+  "dependencies": {
+    "firebase-admin": "^11.1.0"
+  }
+}
